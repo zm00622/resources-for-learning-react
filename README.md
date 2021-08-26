@@ -7,20 +7,38 @@ __________________________________________
 
 https://www.youtube.com/watch?v=Zz9pLellSQA
 
-**Component Did Update**
+**componentDidUpdate**
 
 useEffect(() = > {
+
   console.log("We have run the useEffect hook");
+  
 }); 
 
 (Notice there is no array in the parameters, just the arrow function!)
 
-**ComponentWillMount**
+**componentDidMount**
 
 useEffect(() = > {
+
   console.log("We have run the useEffect hook");
+  
 } []);
 
 (Notice there IS an array in the parameters!)
+
+**componentWillUnmount**
+
+useEffect(() = > {
+
+  console.log("We have run the useEffect hook");
+  
+    return () => {
+    
+      console.log("The component has unmounted");
+      
+    };
+    
+} []);
 
 __________________________________________
