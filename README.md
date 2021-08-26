@@ -5,7 +5,13 @@ __________________________________________
 
 **Lifecycle Methods Explained with Hooks**
 
+Part 1:
+
 https://www.youtube.com/watch?v=Zz9pLellSQA
+
+Part 2:
+
+https://www.youtube.com/watch?v=3Wb9l18KoxI
 
 **componentDidUpdate**
 
