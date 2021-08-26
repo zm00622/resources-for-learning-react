@@ -42,3 +42,5 @@ useEffect(() = > {
 } []);
 
 __________________________________________
+
+<img src="https://github.com/zm00622/resources-for-learning-react/blob/main/Lifecycle%20Methods%20vs.%20Hooks.png?raw=true"></img>
