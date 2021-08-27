@@ -13,6 +13,10 @@ Part 2:
 
 https://www.youtube.com/watch?v=3Wb9l18KoxI
 
+Hook Lessons on Egghead
+
+https://egghead.io/courses/using-react-hooks-in-functional-components6c-be394e
+
 **componentDidUpdate**
 
 useEffect(() = > {
